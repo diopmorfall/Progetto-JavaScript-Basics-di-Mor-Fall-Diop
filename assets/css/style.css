@@ -45,7 +45,8 @@ body {
 p {
   margin: 50px 0 50px 0;
   font-style: italic;
-  font-size: 12px; }
+  font-size: 12px;
+  text-align: center; }
 
 .counter {
   -ms-flex-pack: distribute;
@@ -86,6 +87,6 @@ button {
   .page {
     width: 600px; }
   span {
-    width: 65%; }
+    width: 60%; }
   button {
     width: 10%; } }
