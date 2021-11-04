@@ -26,7 +26,7 @@ The project must satisfy the following requirements:
 
 ### Links
 
-- Live Site URL: [Github Pages](https://diopmorfall.github.io/Progetto-JavaScript-Basics-di-Mor-Fall-Diop/)
+- Live Site URL: [Netlify](https://diopmorfall-s2i-js-basics-project.netlify.app/)
 - Source code: [Github](https://github.com/diopmorfall/Progetto-JavaScript-Basics-di-Mor-Fall-Diop)
 
 ## My process
